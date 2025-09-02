@@ -67,12 +67,14 @@ pip install -r requirements.txt
    - 选择Excel文件 (如果使用Excel数据)
    - 点击 "Start Training" 开始训练模型
    - 实时监控进度并查看指标
+![训练标签页](gui_images/Training_tab.png)
 
 3. **预测标签页**：
    - 选择模型类型 (linear、gpr、dtc 或 all)
    - 选择模型版本
    - 输入特征值或使用示例值
    - 点击 "Run Prediction" 获取即时结果
+![预测标签页](gui_images/Prediction_tab.png)
 
 ### 命令行模式
 
