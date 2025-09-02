@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Install Graphviz (for Decision Tree Visualization)
-- **Windows**: Download from [Graphviz Official](https://graphviz.org/download/)[Note: set the environment variables] or `winget install Graphviz.Graphviz`
+- **Windows**: Download from [Graphviz Official](https://graphviz.org/download/)[Note: set the environment variables] or `winget install Graphviz.Graphviz --source winget`
 - **Ubuntu/Debian**: `sudo apt-get install graphviz`
 - **macOS**: `brew install graphviz`
 
