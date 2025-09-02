@@ -75,6 +75,7 @@ pip install -r requirements.txt
    - Choose model version
    - Enter feature values or use example values
    - Click "Run Prediction" for instant results
+![Prediction Tab](gui_images/Prediction_tab.png)
 
 ### Command Line Mode
 
