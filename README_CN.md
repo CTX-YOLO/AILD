@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. 安装Graphviz (用于决策树可视化)
-- **Windows**：从 [Graphviz官网](https://graphviz.org/download/) 下载（注意设置环境变量） 或者使用包管理器下载 `winget install Graphviz.Graphviz`
+- **Windows**：从 [Graphviz官网](https://graphviz.org/download/) 下载（注意设置环境变量） 或者使用包管理器下载 `winget install Graphviz.Graphviz --source winget`
 - **Ubuntu/Debian**：`sudo apt-get install graphviz`
 - **macOS**：`brew install graphviz`
 
