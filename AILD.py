@@ -57,6 +57,11 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import RBF, WhiteKernel
 
 KEY_FEATURES: List[str] = ['length', 'a_M1_dz2', 'num', 'a_M2_s', 'a_M3_dxz', 'c_Rs_dz2']
+# Graphviz 安装路径
+graphviz_bin = r"C:\Program Files\Graphviz\bin"
+
+# 临时添加到 PATH
+os.environ["PATH"] += os.pathsep + graphviz_bin
 
 Example_VALUE = {
     "length":2.75971428571428,
