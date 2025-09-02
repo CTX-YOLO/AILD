@@ -68,6 +68,7 @@ pip install -r requirements.txt
    - Select Excel file (if using Excel data)
    - Click "Start Training" to train models
    - Monitor progress and view metrics in real-time
+![Training Tab](gui_images/Training_tab.png)
 
 3. **Prediction Tab**:
    - Select model type (linear, gpr, dtc, or all)
