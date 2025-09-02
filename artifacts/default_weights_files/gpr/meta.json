@@ -1,0 +1,14 @@
+{
+  "feature_names": [
+    "length",
+    "a_M1_dz2",
+    "a_M3_dxz",
+    "a_M2_s",
+    "c_Rs_dz2",
+    "num"
+  ],
+  "target": "E_ad",
+  "scaler": "MinMaxScaler",
+  "version": "default_weights_files",
+  "created_at": "2025-09-01T23:59:07.062209"
+}
